@@ -1,5 +1,5 @@
-## Weather Wizard - OpenWeatherApi
-A proof of concept created in a few hours showing how to integrate OpenWeatherApi with a java-spring boot project.
+## Weather Wizard - OpenWeatherMap
+A proof of concept created in a few hours showing how to integrate OpenWeatherMap with a java-spring boot project.
 
 #### Features:
 - It uses free version of https://openweathermap.org/
